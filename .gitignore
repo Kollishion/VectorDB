@@ -16,3 +16,19 @@ bin/
 # OS files
 .DS_Store
 Thumbs.db
+
+# Java compiled files
+*.class
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# Build output
+target/
+out/
+
+# OS files
+.DS_Store
+Thumbs.db
