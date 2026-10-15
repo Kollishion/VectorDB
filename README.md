@@ -50,7 +50,7 @@ Answer
 
 You need **3 things** installed on your Windows laptop:
 
-1. **MSYS2** (gives you g++ compiler)
+1. **JVM** (gives you java compiler)
 2. **Git**
 3. **Ollama** (runs the local AI models)
 
